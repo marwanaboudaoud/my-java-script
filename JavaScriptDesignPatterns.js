@@ -21,7 +21,7 @@ function Car( model, year, miles ) {
   }
 
 
-// Usage:
+// Usage
  
 // We can create new instances of the car
 var civic = new Car( "Honda Civic", 2009, 20000 );
